@@ -1,0 +1,4 @@
+APP_TYPE = "binary"
+PRODUCT = "PRODUCT"
+SUBSYS  = "SUBSYS"
+MODULE  = "MODULE"
